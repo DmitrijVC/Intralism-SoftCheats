@@ -1,6 +1,6 @@
 # <img src="https://i.imgur.com/kVCAlCt.png" height="29"> Intralism - SoftCheats
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=DmitrijVC.Intralism-SoftCheats" /> <br>
-Intralism bot for grinding exp and items, or beating records. 
+Intralism bot for ~~grinding exp and items, or~~ beating records. 
 
 ## Soon
 Currently it's a pice of crap. Works, but not how I want. <br>
