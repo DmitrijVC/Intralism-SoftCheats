@@ -8,6 +8,9 @@ I will upload everything when it will be ready. <br>
 
 But for now, here are some screenshoots:
 
+**Beaten official map (normal)** <br>
+<img src="https://image.prntscr.com/image/D8qtKrpYRVWxjnj3NvgQmA.png" width=70%>
+
 **Beaten map (normal)** <br>
 <img src="https://image.prntscr.com/image/K4GpM_7HSTyKnBqwHfyveg.png" width=500px>
 
