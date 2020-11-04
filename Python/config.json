@@ -1,0 +1,7363 @@
+{
+  "id": "nr1",
+  "name": "To Aru Kagaku no Railgun OP1 - Only My Railgun",
+  "info": "To Aru Kagaku no Railgun OP1 - Only My Railgun (fripSide)",
+  "levelResources": [
+    {
+      "name": "main",
+      "type": "Sprite",
+      "path": "main.png"
+    },
+    {
+      "name": "1",
+      "type": "Sprite",
+      "path": "at2.png"
+    },
+    {
+      "name": "2",
+      "type": "Sprite",
+      "path": "at1.png"
+    },
+    {
+      "name": "3",
+      "type": "Sprite",
+      "path": "at3.png"
+    },
+    {
+      "name": "4",
+      "type": "Sprite",
+      "path": "at4.png"
+    },
+    {
+      "name": "clear",
+      "type": "Sprite",
+      "path": "clear.png"
+    }
+  ],
+  "tags": [
+    "Anime",
+    "OneHand"
+  ],
+  "handCount": 1,
+  "moreInfoURL": "",
+  "speed": 15.0,
+  "lives": 8,
+  "maxLives": 20,
+  "musicFile": "music.ogg",
+  "musicTime": 257.149017,
+  "iconFile": "icon.png",
+  "generationType": 2,
+  "environmentType": 0,
+  "unlockConditions": [],
+  "hidden": false,
+  "checkpoints": [
+    34.0965462,
+    96.252594,
+    156.818237,
+    211.366
+  ],
+  "puzzleSequencesList": [],
+  "events": [
+    {
+      "time": 0.01,
+      "data": [
+        "ShowSprite",
+        "main,0,True,99999"
+      ]
+    },
+    {
+      "time": 0.319,
+      "data": [
+        "ShowTitle",
+        "To Aru Kagaku no Railgun OP1,2"
+      ]
+    },
+    {
+      "time": 0.711040556,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 1.13419724,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 1.35483992,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 1.46943462,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 1.71307373,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 1.93843472,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 2.1684258,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 2.28254032,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 2.565609,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 2.80752516,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 2.965,
+      "data": [
+        "ShowTitle",
+        "Only My Railgun,2"
+      ]
+    },
+    {
+      "time": 3.03628135,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 3.14492226,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 3.43293047,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 3.6501987,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 3.8941195,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 4.00019,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 4.27656746,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 4.49514341,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 4.68812227,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 4.79492569,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 4.93168545,
+      "data": [
+        "ShowTitle",
+        "by Polcar,2"
+      ]
+    },
+    {
+      "time": 5.1239996,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 5.35853052,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 5.54259539,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 5.57199955,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 5.67195034,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 5.9974947,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 6.20089626,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 6.40586424,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 6.50214624,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 6.826219,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 7.018107,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 7.065308,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 7.11319876,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 7.275304,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 7.381283,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 7.679372,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 7.87718,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 8.074797,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 8.191512,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 8.490744,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 8.730945,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 8.95146751,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 9.062834,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 9.317254,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 9.509083,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 9.745751,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 9.859304,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 10.1637793,
+      "data": [
+        "SpawnObj",
+        "[Right-Down],0"
+      ]
+    },
+    {
+      "time": 10.4349251,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 10.622448,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 10.7344112,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 11.02752,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 11.249,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 11.4250965,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 11.5495367,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 11.8285437,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 12.0782118,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 12.240613,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 12.3176136,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 12.3615055,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 12.4423256,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 12.4722433,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 12.78419,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 12.8529167,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 12.9549828,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 13.0236864,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 13.0917387,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 13.1809216,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 13.5155973,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 13.6791716,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 13.9279995,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 14.163,
+      "data": [
+        "SpawnObj",
+        "[Up-Right-Down],0"
+      ]
+    },
+    {
+      "time": 14.3835163,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 14.4912615,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 14.76411,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 15.0097847,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 15.2257452,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 15.3375864,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 15.6457958,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 15.8393,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 16.0233212,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 16.1426315,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 16.4812355,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 16.66952,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 16.9131756,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 17.0740643,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 17.2475548,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 17.502,
+      "data": [
+        "SpawnObj",
+        "[Right-Down-Left],0"
+      ]
+    },
+    {
+      "time": 17.9448376,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 18.33327,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 18.384079,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 18.80501,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 19.2085247,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 19.5220375,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 19.5856667,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 19.8244171,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 20.027441,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 20.2303028,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 20.4554443,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 20.68185,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 20.8793221,
+      "data": [
+        "SpawnObj",
+        "[Up-Down-Left],0"
+      ]
+    },
+    {
+      "time": 21.1136875,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 21.2448177,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 21.4782276,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 21.703413,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 21.9171162,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 22.023138,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 22.3662739,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 22.5821362,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 22.7542515,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 22.84225,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 23.1512737,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 23.3871155,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 23.574,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 23.7962837,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 23.9933643,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 24.25842,
+      "data": [
+        "SpawnObj",
+        "[Up-Right-Left],0"
+      ]
+    },
+    {
+      "time": 24.642,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 25.0579987,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 25.2451344,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 25.4683437,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 25.7133331,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 25.9477615,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 26.2980728,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 26.7351761,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 27.1536064,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 27.5672,
+      "data": [
+        "SpawnObj",
+        "[Up-Right-Left],0"
+      ]
+    },
+    {
+      "time": 27.820055,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 27.932703,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 28.231739,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 28.4799976,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 28.6675911,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 28.7661533,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 29.0802612,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 29.251,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 29.5223312,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 29.6093712,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 29.6850643,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 30.1525517,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 30.54742,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 30.95469,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 31.3685589,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 31.81734,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 32.2257729,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 32.3209572,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 32.4142,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 32.49712,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 32.5920029,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 32.92932,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 33.00662,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 33.2188263,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 33.46539,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 33.6458626,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 33.84983,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 34.0362854,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 34.16,
+      "data": [
+        "ShowSprite",
+        "clear,0,True,100"
+      ]
+    },
+    {
+      "time": 34.28786,
+      "data": [
+        "SpawnObj",
+        "[Up-Left],0"
+      ]
+    },
+    {
+      "time": 34.7805862,
+      "data": [
+        "ShowSprite",
+        "1,0,True,99999"
+      ]
+    },
+    {
+      "time": 35.1304245,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 35.3284378,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 35.519722,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 35.74336,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 35.9650269,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 36.78713,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 37.03742,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 37.25424,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 37.43871,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 37.65231,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 38.4764137,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 38.6904564,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 38.8780632,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 39.1186142,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 39.3368568,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 39.5134926,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 39.7296944,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 39.9177475,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 40.1569977,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 40.1579971,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 40.584,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 41.0154724,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 41.053997,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 41.42568,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 41.80841,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 42.0461731,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 42.2779465,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 42.45598,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 42.676,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 42.69471,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 43.07392,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 43.5499077,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 43.7473946,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 43.94839,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 44.1363564,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 44.3719978,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 44.7769241,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 45.1792755,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 45.3971367,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 45.6287766,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 45.8452148,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 46.0645,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 46.0818634,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 46.4228859,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 46.6583939,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 46.8907166,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 47.3179321,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 47.7917328,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 47.9466362,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 48.0743637,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 48.2797852,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 48.3842545,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 48.75368,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 48.9938736,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 49.23633,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 49.38664,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 49.803997,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 50.0659,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 50.154808,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 50.8589363,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 50.9567566,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 51.0640755,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 51.2933578,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 51.50309,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 51.7089539,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 51.9170532,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 52.0675964,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 52.2241554,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 52.51854,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 52.7388573,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 53.0875244,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 53.251,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 53.3656235,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 53.6265678,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 54.0430069,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 54.431076,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 54.6551857,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 54.80449,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 55.0122681,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 55.11589,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 55.4106064,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 55.6983681,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 55.9014778,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 56.0965347,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 56.48382,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 56.7368546,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 56.88597,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 56.980072,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 57.391983,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 57.5808525,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 57.7711029,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 58.217865,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 58.4280319,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 58.635067,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 58.8620338,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 58.9554825,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 59.2769775,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 59.4941521,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 59.94897,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 60.0981064,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 60.1884651,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 60.28247,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 61.19496,
+      "data": [
+        "SpawnObj",
+        "[Up-Left],0"
+      ]
+    },
+    {
+      "time": 61.4986877,
+      "data": [
+        "SpawnObj",
+        "[Up-Right],0"
+      ]
+    },
+    {
+      "time": 61.79403,
+      "data": [
+        "SpawnObj",
+        "[Right-Down],0"
+      ]
+    },
+    {
+      "time": 62.0314445,
+      "data": [
+        "ShowSprite",
+        "main,0,True,99999"
+      ]
+    },
+    {
+      "time": 62.2307,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 62.4215622,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 62.6120071,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 62.8429527,
+      "data": [
+        "SpawnObj",
+        "[Right-Down-Left],0"
+      ]
+    },
+    {
+      "time": 63.06116,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 63.1866264,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 63.464,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 63.684,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 63.8597145,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 63.971,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 64.2865448,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 64.5166,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 64.71893,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 64.86994,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 65.1549759,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 65.32892,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 65.56285,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 65.77036,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 65.95273,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 66.18678,
+      "data": [
+        "SpawnObj",
+        "[Up-Right-Left],0"
+      ]
+    },
+    {
+      "time": 66.583046,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 66.66381,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 66.99944,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 67.41613,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 67.45007,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 67.8651352,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 68.1296,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 68.29108,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 68.47827,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 68.7166,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 68.9269943,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 69.15015,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 69.32464,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 69.52499,
+      "data": [
+        "SpawnObj",
+        "[Up-Down-Left],0"
+      ]
+    },
+    {
+      "time": 69.78376,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 69.89173,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 70.18804,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 70.34707,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 70.60306,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 70.71478,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 70.99858,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 71.2061539,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 71.40598,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 71.51516,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 71.87923,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 72.07986,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 72.23551,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 72.43418,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 72.67614,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 72.8801956,
+      "data": [
+        "SpawnObj",
+        "[Up-Right-Left],0"
+      ]
+    },
+    {
+      "time": 73.30791,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 73.73433,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 73.9252243,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 74.2176361,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 74.40301,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 74.572,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 74.60952,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 74.9128342,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 74.99251,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 75.2112656,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 75.458374,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 75.59131,
+      "data": [
+        "SpawnObj",
+        "[Right-Down],0"
+      ]
+    },
+    {
+      "time": 75.8611,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 76.0960846,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 76.30164,
+      "data": [
+        "SpawnObj",
+        "[Right-Down-Left],0"
+      ]
+    },
+    {
+      "time": 76.47963,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 76.59028,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 76.92154,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 77.1091461,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 77.3100357,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 77.39387,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 77.69298,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 77.90601,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 78.146225,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 78.23952,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 78.54501,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 78.76235,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 78.98951,
+      "data": [
+        "SpawnObj",
+        "[Up-Left],0"
+      ]
+    },
+    {
+      "time": 79.23031,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 79.43487,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 79.61948,
+      "data": [
+        "SpawnObj",
+        "[Up-Down-Left],0"
+      ]
+    },
+    {
+      "time": 80.0355759,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 80.441124,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 80.85828,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 81.2881851,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 81.35243,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 81.618866,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 81.70733,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 82.0089951,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 82.13746,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 82.33956,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 82.54333,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 82.7235947,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 82.96,
+      "data": [
+        "SpawnObj",
+        "[Up-Right-Left],0"
+      ]
+    },
+    {
+      "time": 83.19063,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 83.2975159,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 83.60755,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 83.7930145,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 84.03856,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 84.1424942,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 84.43035,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 84.65892,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 84.8699951,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 84.97506,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 85.24966,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 85.51359,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 85.70729,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 85.88868,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 86.12792,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 86.32072,
+      "data": [
+        "SpawnObj",
+        "[Up-Down-Left],0"
+      ]
+    },
+    {
+      "time": 86.72118,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 87.11814,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 87.35023,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 87.57702,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 87.80266,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 88.018,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 88.40229,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 88.81793,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 89.240654,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 89.69426,
+      "data": [
+        "SpawnObj",
+        "[Up-Right-Left],0"
+      ]
+    },
+    {
+      "time": 89.90964,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 90.0333557,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 90.30978,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 90.51186,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 90.749115,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 90.85372,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 91.14239,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 91.3798447,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 91.6349945,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 91.7319,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 91.81207,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 92.15094,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 92.58208,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 93.0309448,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 93.45492,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 93.87792,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 94.27077,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 94.371666,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 94.47134,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 94.55268,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 94.645,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 94.92086,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 95.0660858,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 95.29159,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 95.52,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 95.75613,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 95.9652252,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 96.17331,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 96.29716,
+      "data": [
+        "ShowSprite",
+        "clear,0,True,100"
+      ]
+    },
+    {
+      "time": 96.37536,
+      "data": [
+        "SpawnObj",
+        "[Up-Left],0"
+      ]
+    },
+    {
+      "time": 96.89568,
+      "data": [
+        "ShowSprite",
+        "3,0,True,99999"
+      ]
+    },
+    {
+      "time": 97.16345,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 97.42261,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 97.6550446,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 97.80581,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 98.07,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 98.87288,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 99.1161652,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 99.27464,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 99.5315247,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 99.7497559,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 100.57328,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 100.795364,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 101.022095,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 101.183182,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 101.425072,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 101.653465,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 101.848869,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 102.04879,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 102.253807,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 102.289955,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 102.6733,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 103.092453,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 103.139,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 103.51609,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 103.908333,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 104.183746,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 104.364365,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 104.575447,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 104.786186,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 105.18425,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 105.593353,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 105.826714,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 106.033775,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 106.221367,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 106.444939,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 106.851768,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 107.236153,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 107.47879,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 107.706131,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 107.91201,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 108.154,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 108.527634,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 108.770416,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 108.97583,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 109.394264,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 109.834435,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 110.060051,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 110.1616,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 110.387749,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 110.509941,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 110.825241,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 111.049995,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 111.291145,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 111.495735,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 111.930489,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 112.107323,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 112.238831,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 112.957,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 113.155396,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 113.371994,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 113.596077,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 113.859489,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 114.012161,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 114.139961,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 114.369667,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 114.631393,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 114.924881,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 115.203232,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 115.4348,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 115.707977,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 116.060143,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 116.508415,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 116.755661,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 116.873833,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 117.167953,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 117.346771,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 117.533485,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 117.791611,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 117.991135,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 118.214386,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 118.596375,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 118.848251,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 118.968262,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 119.463669,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 119.669754,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 119.915382,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 120.267662,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 120.530975,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 120.724678,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 121.012138,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 121.097351,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 121.3436,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 121.552971,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 121.987442,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 122.208763,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 122.291077,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 122.390739,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 123.225327,
+      "data": [
+        "SpawnObj",
+        "[Up-Left],0"
+      ]
+    },
+    {
+      "time": 123.558983,
+      "data": [
+        "SpawnObj",
+        "[Up-Right],0"
+      ]
+    },
+    {
+      "time": 123.894,
+      "data": [
+        "SpawnObj",
+        "[Right-Down],0"
+      ]
+    },
+    {
+      "time": 124.065,
+      "data": [
+        "ShowSprite",
+        "main,0,True,99999"
+      ]
+    },
+    {
+      "time": 124.270729,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 124.54451,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 124.691788,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 124.919,
+      "data": [
+        "SpawnObj",
+        "[Up-Right-Left],0"
+      ]
+    },
+    {
+      "time": 125.216446,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 125.3302,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 125.548927,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 125.741753,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 125.976929,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 126.077286,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 126.431778,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 126.637,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 126.895767,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 126.994621,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 127.232529,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 127.46949,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 127.660439,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 127.870949,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 128.059509,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 128.272,
+      "data": [
+        "SpawnObj",
+        "[Up-Right-Left],0"
+      ]
+    },
+    {
+      "time": 128.6859,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 129.163254,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 129.458527,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 129.5581,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 129.987991,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 130.3088,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 130.3976,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 130.596,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 130.819229,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 131.040817,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 131.204,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 131.4072,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 131.653061,
+      "data": [
+        "SpawnObj",
+        "[Up-Down-Left],0"
+      ]
+    },
+    {
+      "time": 131.889786,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 132.0136,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 132.270889,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 132.497986,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 132.687,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 132.778656,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 133.092239,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 133.310623,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 133.550537,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 133.64183,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 133.945267,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 134.159988,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 134.415253,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 134.5972,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 134.779968,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 134.9785,
+      "data": [
+        "SpawnObj",
+        "[Right-Down-Left],0"
+      ]
+    },
+    {
+      "time": 135.3905,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 135.782913,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 136.07164,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 136.252167,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 136.459717,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 136.689209,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 137.0295,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 137.1281,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 137.341232,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 137.525177,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 137.7251,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 137.899139,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 138.156311,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 138.3948,
+      "data": [
+        "SpawnObj",
+        "[Up-Down-Left],0"
+      ]
+    },
+    {
+      "time": 138.586792,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 138.682388,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 138.97644,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 139.2035,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 139.411331,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 139.514435,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 139.819824,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 140.038071,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 140.316086,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 140.408188,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 140.674454,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 140.837555,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 141.069717,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 141.275085,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 141.469482,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 141.711426,
+      "data": [
+        "SpawnObj",
+        "[Up-Right-Left],0"
+      ]
+    },
+    {
+      "time": 142.146927,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 142.520828,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 142.964981,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 143.355438,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 143.44339,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 143.710327,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 143.839951,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 144.015686,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 144.23259,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 144.449463,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 144.660233,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 144.922424,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 145.071014,
+      "data": [
+        "SpawnObj",
+        "[Up-Right-Left],0"
+      ]
+    },
+    {
+      "time": 145.294922,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 145.411057,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 145.6952,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 145.910568,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 146.141327,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 146.252609,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 146.534927,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 146.759109,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 146.979446,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 147.0926,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 147.343948,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 147.556458,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 147.785049,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 147.978363,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 148.205521,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 148.4159,
+      "data": [
+        "SpawnObj",
+        "[Up-Right-Left],0"
+      ]
+    },
+    {
+      "time": 148.787048,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 149.2278,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 149.454849,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 149.652054,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 149.879,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 150.113525,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 150.552322,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 150.946381,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 151.336655,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 151.7796,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 152.068268,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 152.163757,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 152.439987,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 152.6507,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 152.864014,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 152.945862,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 153.278412,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 153.46196,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 153.735809,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 153.812683,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 153.937943,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 154.344116,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 154.706009,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 155.121826,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 155.562042,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 156.009064,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 156.403732,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 156.484146,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 156.57,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 156.650375,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 156.738266,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 156.888168,
+      "data": [
+        "SpawnObj",
+        "[Up-Right],0"
+      ]
+    },
+    {
+      "time": 157.238953,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 157.451736,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 157.559235,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 157.823868,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 158.1,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 158.31543,
+      "data": [
+        "SpawnObj",
+        "[Right-Down],0"
+      ]
+    },
+    {
+      "time": 159.301,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 159.744827,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 160.025436,
+      "data": [
+        "SpawnObj",
+        "[Right-Down],0"
+      ]
+    },
+    {
+      "time": 160.942062,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 161.027359,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 161.148,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 161.2323,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 161.359787,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 161.4832,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 161.565567,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 161.685,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 161.770065,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 161.90123,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 162.042114,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 162.11673,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 162.572968,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 162.699738,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 162.905075,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 163.0555,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 163.113312,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 163.168472,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 163.47142,
+      "data": [
+        "SpawnObj",
+        "[Up-Left],0"
+      ]
+    },
+    {
+      "time": 163.81572,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 164.1672,
+      "data": [
+        "SpawnObj",
+        "[Up-Right],0"
+      ]
+    },
+    {
+      "time": 164.82,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 164.958344,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 165.099976,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 165.262131,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 165.404968,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 165.53299,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 165.662933,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 165.828323,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 165.959656,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 166.088242,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 166.301941,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 166.4923,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 166.717285,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 166.8935,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 167.104813,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 167.301941,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 167.445511,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 167.54,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 167.7197,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 167.869247,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 167.977753,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 168.143661,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 168.251251,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 168.361572,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 168.4892,
+      "data": [
+        "SpawnObj",
+        "[Down-Left],0"
+      ]
+    },
+    {
+      "time": 168.604034,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 168.914566,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 169.1705,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 169.375229,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 169.607742,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 169.6423,
+      "data": [
+        "ShowSprite",
+        "clear,0,True,100"
+      ]
+    },
+    {
+      "time": 169.692032,
+      "data": [
+        "SpawnObj",
+        "[Down-Left],0"
+      ]
+    },
+    {
+      "time": 169.915833,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 170.254425,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 170.45607,
+      "data": [
+        "ShowSprite",
+        "2,0,True,99999"
+      ]
+    },
+    {
+      "time": 170.694992,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 170.959824,
+      "data": [
+        "SpawnObj",
+        "[Up-Right],0"
+      ]
+    },
+    {
+      "time": 171.318085,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 171.548141,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 171.7338,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 171.92186,
+      "data": [
+        "SpawnObj",
+        "[Up-Left],0"
+      ]
+    },
+    {
+      "time": 172.333786,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 172.529541,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 172.751755,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 173.083862,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 173.358765,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 173.5968,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 173.91481,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 174.018631,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 174.262,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 174.336472,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 174.4157,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 174.491837,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 174.588608,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 174.663513,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 174.754,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 174.872574,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 174.9506,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 175.036285,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 175.114059,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 175.235474,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 175.5657,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 175.686813,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 176.13,
+      "data": [
+        "SpawnObj",
+        "[Right-Down],0"
+      ]
+    },
+    {
+      "time": 176.540421,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 176.914291,
+      "data": [
+        "SpawnObj",
+        "[Down-Left],0"
+      ]
+    },
+    {
+      "time": 177.208,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 177.352158,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 177.796326,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 177.958557,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 178.093,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 178.272766,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 178.44838,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 178.566864,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 178.692932,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 178.823639,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 178.92337,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 179.090576,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 179.4446,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 179.660309,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 179.747131,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 179.824783,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 179.908844,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 180.3112,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 180.459213,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 180.6031,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 180.7687,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 180.915237,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 181.078049,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 181.253876,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 181.431564,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 181.6071,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 181.789108,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 181.992844,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 182.159531,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 182.327377,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 182.527115,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 182.72171,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 182.893127,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 183.057892,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 183.151016,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 183.2535,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 184.687988,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 184.894272,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 185.1108,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 185.349,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 185.553,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 185.647812,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 185.948,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 186.151779,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 186.356033,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 186.458237,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 186.776779,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 186.9998,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 187.206055,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 187.32399,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 187.620163,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 187.861465,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 188.046448,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 188.226761,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 188.465836,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 188.678909,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 189.0817,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 189.531158,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 189.97,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 190.392242,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 190.647583,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 190.985947,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 191.205338,
+      "data": [
+        "ShowSprite",
+        "4,0,True,9999"
+      ]
+    },
+    {
+      "time": 191.412033,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 191.637909,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 191.848984,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 192.040192,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 192.255539,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 192.363968,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 192.659988,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 192.850647,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 193.087143,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 193.1733,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 193.477478,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 193.704987,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 193.923813,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 194.003281,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 194.332138,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 194.554214,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 194.782425,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 194.9782,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 195.1866,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 195.3912,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 196.213,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 196.441071,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 196.707977,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 196.846237,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 197.0931,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 197.47966,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 197.748535,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 198.108673,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 198.3291,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 198.571,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 198.763,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 198.995911,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 199.091125,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 199.380112,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 199.596252,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 199.799835,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 199.88475,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 200.22583,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 200.4239,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 200.650711,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 200.772964,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 201.06015,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 201.260147,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 201.490051,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 201.74324,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 201.9082,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 202.125839,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 202.545456,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 202.9269,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 203.400238,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 203.768921,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 204.113922,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 204.4368,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 204.84787,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 205.067322,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 205.2669,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 205.46167,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 205.713577,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 205.800476,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 206.072281,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 206.287521,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 206.530457,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 206.6337,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 206.937866,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 207.14,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 207.350037,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 207.4333,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 207.77858,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 208.0102,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 208.181961,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 208.403381,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 208.583145,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 208.819046,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 209.2742,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 209.335754,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 209.389328,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 209.586731,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 209.8582,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 210.09552,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 210.289139,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 210.5401,
+      "data": [
+        "SpawnObj",
+        "[Up-Left],0"
+      ]
+    },
+    {
+      "time": 210.8425,
+      "data": [
+        "SpawnObj",
+        "[Up-Right],0"
+      ]
+    },
+    {
+      "time": 211.1902,
+      "data": [
+        "SpawnObj",
+        "[Right-Down],0"
+      ]
+    },
+    {
+      "time": 211.422012,
+      "data": [
+        "ShowSprite",
+        "main,0,True,9999"
+      ]
+    },
+    {
+      "time": 211.527847,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 211.776352,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 212.005768,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 212.21196,
+      "data": [
+        "SpawnObj",
+        "[Right-Down-Left],0"
+      ]
+    },
+    {
+      "time": 212.410614,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 212.5138,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 212.785889,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 212.999924,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 213.242462,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 213.332535,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 213.676941,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 213.8622,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 214.105331,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 214.181366,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 214.474854,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 214.673782,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 214.93,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 215.112076,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 215.319824,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 215.5585,
+      "data": [
+        "SpawnObj",
+        "[Up-Right-Left],0"
+      ]
+    },
+    {
+      "time": 215.923,
+      "data": [
+        "SpawnObj",
+        "[Right-Down],0"
+      ]
+    },
+    {
+      "time": 216.371,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 216.790573,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 216.84,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 217.228485,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 217.534,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 217.633423,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 217.828735,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 218.077988,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 218.304871,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 218.542435,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 218.727448,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 218.921478,
+      "data": [
+        "SpawnObj",
+        "[Up-Down-Left],0"
+      ]
+    },
+    {
+      "time": 219.202789,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 219.30365,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 219.517548,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 219.758774,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 219.992691,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 220.080551,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 220.3795,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 220.591858,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 220.799454,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 220.887482,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 221.188278,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 221.418,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 221.609131,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 221.844,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 222.020569,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 222.278137,
+      "data": [
+        "SpawnObj",
+        "[Up-Right-Left],0"
+      ]
+    },
+    {
+      "time": 222.678635,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 223.125992,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 223.292679,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 223.553,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 223.7384,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 223.944931,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 224.248672,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 224.363861,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 224.555,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 224.821991,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 225.008484,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 225.203232,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 225.388474,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 225.595566,
+      "data": [
+        "SpawnObj",
+        "[Up-Right-Down],0"
+      ]
+    },
+    {
+      "time": 225.868,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 225.949936,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 226.23082,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 226.454773,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 226.668,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 226.746216,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 227.089355,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 227.297989,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 227.494934,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 227.575226,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 227.925537,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 228.151138,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 228.345551,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 228.5212,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 228.739136,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 228.974,
+      "data": [
+        "SpawnObj",
+        "[Right-Down-Left],0"
+      ]
+    },
+    {
+      "time": 229.4,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 229.81575,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 230.22464,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 230.653015,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 230.966476,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 231.12085,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 231.320969,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 231.5316,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 231.732986,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 231.92775,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 232.126816,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 232.3381,
+      "data": [
+        "SpawnObj",
+        "[Up-Down-Left],0"
+      ]
+    },
+    {
+      "time": 232.573959,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 232.6564,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 232.967728,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 233.189758,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 233.398575,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 233.477783,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 233.788727,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 233.9955,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 234.208481,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 234.294281,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 234.618561,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 234.8255,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 235.018036,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 235.240448,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 235.464066,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 235.7272,
+      "data": [
+        "SpawnObj",
+        "[Up-Right-Left],0"
+      ]
+    },
+    {
+      "time": 236.112564,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 236.506989,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 236.731476,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 236.9532,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 237.16539,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 237.363922,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 237.771362,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 238.2084,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 238.6201,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 239.062134,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 239.306671,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 239.404541,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 239.61731,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 239.882782,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 240.14325,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 240.250259,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 240.530991,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 240.744522,
+      "data": [
+        "SpawnObj",
+        "[Right]"
+      ]
+    },
+    {
+      "time": 240.970078,
+      "data": [
+        "SpawnObj",
+        "[Left]"
+      ]
+    },
+    {
+      "time": 241.0754,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 241.189224,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 241.567322,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 241.993637,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 242.442978,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 242.663651,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 242.876129,
+      "data": [
+        "SpawnObj",
+        "[Up]"
+      ]
+    },
+    {
+      "time": 243.101974,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 243.233948,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 243.318863,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 243.404388,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 243.498672,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 243.766953,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    },
+    {
+      "time": 243.909622,
+      "data": [
+        "SpawnObj",
+        "[Down]"
+      ]
+    }
+  ]
+}

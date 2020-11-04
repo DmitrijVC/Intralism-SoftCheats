@@ -1,13 +1,22 @@
 # <img src="https://i.imgur.com/kVCAlCt.png" height="29"> Intralism - SoftCheats
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=DmitrijVC.Intralism-SoftCheats" /> <br>
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=DdmitrijVC.Intralism-SoftCheats" /> <br>
 Intralism bot for ~~grinding exp and items, or~~ beating records. 
 
-## Soon
-Currently it's a pice of crap. Works, but not how I want. <br>
-I will upload everything when it will be ready. <br>
+## Usage
+- Paste the map config into `config.json`
+- Run `main.py`
+- When in game, press `[Enter]` when you will see the first arc
+- Wait for the end of the level or press `[Esc]` to stop
 
 
-But for now, here are some screenshoots:
+
+## Info
+I am still not contented with my code, but for certain reasons I won't add auto config loader function, that would decrypt and load map config file on runtime when player starts the level. <br>
+*[See Disclaimer](https://github.com/DmitrijVC/Intralism-SoftCheats#disclaimer)*
+
+Also I will probably create a Rust version soon that will be more advanced.
+
+<br>
 
 **Beaten official map (normal)** <br>
 <img src="https://image.prntscr.com/image/D8qtKrpYRVWxjnj3NvgQmA.png" width=70%>
